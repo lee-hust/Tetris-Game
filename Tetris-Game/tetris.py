@@ -1,5 +1,4 @@
-# Khuyến khích tự code theo các bước được hướng dẫn tại link https://youtu.be/FZBoy1y9nP0
-# Phạm Văn Tú - 0939725119 - Email:pvtu.hv@hcm.edu.vn
+
 import pygame as pg
 import random as rnd
 import time
